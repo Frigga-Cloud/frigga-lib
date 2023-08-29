@@ -171,7 +171,6 @@ Here is a sample code with gin framework to showcase few use cases.
 
 ```go
 
-
 ```
 
 #### Test
