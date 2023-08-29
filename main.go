@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Frigga-Cloud/gocomponents/runner"
+	"github.com/Frigga-Cloud/frigga-lib/runner"
 	"github.com/gin-gonic/gin"
 )
 

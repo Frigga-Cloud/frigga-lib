@@ -1,4 +1,4 @@
-module github.com/Frigga-Cloud/gocomponents
+module github.com/Frigga-Cloud/frigga-lib
 
 go 1.19
 
